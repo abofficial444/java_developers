@@ -1,3 +1,3 @@
 # java_developers
-chat system.java - a simple chat system
-Supermarket invoice.java - an invoice receipt
+1. chat system.java - a simple chat system
+2. Supermarket invoice.java - an invoice receipt
